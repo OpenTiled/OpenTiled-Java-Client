@@ -93,6 +93,7 @@ public class Window extends JFrame {
 		Window.layer = layer;
 		//OrthogonalRenderer renderer =  new OrthogonalRenderer(map);
 		Window window = new Window();
+		window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		MapView mapView = new MapView(map);
 		window.add(mapView);
 		window.setSize(640, 480);
