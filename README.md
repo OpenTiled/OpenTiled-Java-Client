@@ -2,7 +2,7 @@
 
 A java client to connect to the OpenTiled Server.
 
-Download: 
+Download: https://github.com/OpenTiled/OpenTiled-Java-Client/blob/master/dist/OpenTiled-Java-Client.jar?raw=true
 
 Run the jar. You will be prompt to enter the ip and port of the OpenTiled Server you wish to connect to. 
 
